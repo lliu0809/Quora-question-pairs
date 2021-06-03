@@ -15,3 +15,6 @@ XGBoost model & Feature Engineering: Lihang Liu
 
 ## Instructions on Running the Code
 Download the jupyter notebooks and run each cell :)
+
+
+Training dataset can be found in the Kaggle competition link above.
